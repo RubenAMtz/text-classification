@@ -1,0 +1,6 @@
+**/*.csv
+**/models.py
+**/text_mining.py
+**/.ipynb_checkpoints
+**/*.pdf
+**/Yalp Reviews — Home_files
